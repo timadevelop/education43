@@ -1,0 +1,26 @@
+<div class="tags">
+  <a *ngFor="let tag of tags" [href]="'#' + tag.title">
+    <nz-tag [nzColor]="tag.color">{{ tag.title }}</nz-tag>
+  </a>
+</div>
+
+<div class="list">
+  <div
+    class="list-item"
+    nz-typography
+    *ngFor="let tag of tags"
+    [id]="tag.title"
+  >
+    <h2
+      nz-typography
+      nzCopyable
+      [nzCopyText]="domainUrl + '/#' + tag.title"
+      class="title"
+    >
+      <span class="color-indicator" [style.background]="tag.color"></span
+      >{{ tag.title }}
+    </h2>
+    <nz-divider></nz-divider>
+    <markdown class="markdown-container" [src]="'resources/content/' + tag.title + '.md'"></markdown>
+  </div>
+</div>

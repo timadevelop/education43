@@ -1,4 +1,4 @@
-# 🎓 Education43 - a community-driven list of free education resources.
+# 🎓 Education43 - a community-driven list of free educational resources.
 
 See [#TODO: link to gh-pages]()
 

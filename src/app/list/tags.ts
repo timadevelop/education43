@@ -28,7 +28,7 @@ export const tags: Array<Tag> = [
   },
   {
     title: 'design',
-    color: '#34495e'
+    color: '#aaa69d'
   },
   {
     title: 'law',
@@ -36,11 +36,11 @@ export const tags: Array<Tag> = [
   },
   {
     title: 'history',
-    color: '#34495e'
+    color: '#4b4b4b'
   },
   {
     title: 'arts',
-    color: '#34495e'
+    color: '#7158e2'
   },
   {
     title: 'economics',
@@ -48,22 +48,22 @@ export const tags: Array<Tag> = [
   },
   {
     title: 'psychology',
-    color: '#34495e'
+    color: '#cc8e35'
   },
   {
     title: 'sociology',
-    color: '#34495e'
+    color: '#cd6133'
   },
   {
     title: 'medicine',
-    color: '#34495e'
-  },
-  {
-    title: 'architecture',
-    color: '#4b4b4b'
+    color: '#227093'
   },
   {
     title: 'linguistics',
     color: '#7d5fff'
-  }
+  },
+  {
+    title: 'template',
+    color: '#4b4b4b'
+  },
 ];

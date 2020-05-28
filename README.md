@@ -1,27 +1,29 @@
-# Education
+# 🎓 Education43 - a community-driven list of free education resources.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+See [#TODO: link to gh-pages]()
 
-## Development server
+I've got my degree in for free and I hate seeing people suffer due to their student loans. While people are yelling and protesting, I would like to provide another approach to the situation. This page contains thousands of links to books, courses, and other resources.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+I believe these can help you not only to get your knowledge for free, but also do it more effectively by leaving old education methods aside. Using these resources any person can outperform any 'prestigious' university student.
 
-## Code scaffolding
+## ✍️ Contribute
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+You can find content source code in [./src/resources/content/](./src/resources/content/).
 
-## Build
+Each file in `content` folder represents a specific academic field, which contains a markdown with urls.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- If you want to modify a specific field you can simply change one of the markdown files in [./src/resources/content/](./src/resources/content/) directory and open a new PR.
 
-## Running unit tests
+- If you don't want to edit files you can use [Github Issues & Pull Requests](https://github.com/timadevelop/education43/issues) to suggest new resources/ideas or email me at <a href="mailto:teemofeev.education43@gmail.com">teemofeev.education43@gmail.com</a>.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- In order to add a new field you can copy `content/template.md` to `content/<field name>.md` and modify the [./src/app/list/tags.ts](./src/app/list/tags.ts):
 
-## Running end-to-end tests
+```diff
++  {
++    title: '<field name>',
++    color: '#4b4b4b'
++  },
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## ☀️ Have a nice day

@@ -1,0 +1,4 @@
+- [USEFUL WEBSITES frm Queen Mary university](https://www.library.qmul.ac.uk/subject-guides/psychology/useful-websites/)
+- [r/psychotherapy resources wiki](https://www.reddit.com/r/psychotherapy/wiki/resources)
+- [Human Behavioral Biology, Evolutionary Psychology - Robert Sapolsky, Stanford (yt)](https://www.youtube.com/playlist?list=PLMwddpZ_3nkAWijQlBnkwnr9wfcuderVe)
+- [Psychology Textbooks by OTL](https://open.umn.edu/opentextbooks/subjects/psychology)

@@ -1,0 +1,2 @@
+- [Free Sociology Books](http://freesociologybooks.com/)
+- [Sociology Textbooks - OTL](https://open.umn.edu/opentextbooks/subjects/sociology)

@@ -1,0 +1,6 @@
+- [Principles of Microeconomics by MIT](https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/)
+- [Macro Musings podcast](https://macromusings.libsyn.com/)
+- [MRU courses and series](https://mru.org/)
+- [Microeconomics Principles free course](https://www.coursera.org/learn/microeconomics)
+- [Economics on stackexchange](https://economics.stackexchange.com/)
+- [Free ebooks from Core-Econ](https://www.core-econ.org/)

@@ -1,0 +1,4 @@
+- [Legal Research Resources - Harvard](https://guides.library.harvard.edu/free)
+- [Research guides and resources - PLS](https://libraryguides.law.pace.edu/free)
+- [Cornell Law School legal resources](https://www.law.cornell.edu/)
+- [Law Textbooks - OTL](https://open.umn.edu/opentextbooks/subjects/law)

@@ -21,8 +21,22 @@
       {{ tag.title }}
     </h2>
     <nz-divider></nz-divider>
-    <a [style.color]="tag.color" target="_blank" [href]="'https://github.com/timadevelop/education43/blob/master/src/resources/content/' + tag.title + '.md'">
-      <i nz-icon nzType="edit" nzTheme="twotone" [nzTwotoneColor]="tag.color"></i> contribute to this field
+    <a
+      [style.color]="tag.color"
+      target="_blank"
+      [href]="
+        'https://github.com/timadevelop/education43/blob/master/src/resources/content/' +
+        tag.title +
+        '.md'
+      "
+    >
+      <i
+        nz-icon
+        nzType="edit"
+        nzTheme="twotone"
+        [nzTwotoneColor]="tag.color"
+      ></i>
+      contribute to this field
     </a>
     <markdown
       class="markdown-container"

@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { FormsModule } from '@angular/forms';
 import { NgZorroAntdModule, NzTagModule, NzIconModule } from 'ng-zorro-antd';
-import { HttpClientModule, HttpClient } from '@angular/common/http';
+import { HttpClientModule, HttpClient, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NZ_I18N } from 'ng-zorro-antd/i18n';
 import { en_US } from 'ng-zorro-antd/i18n';
@@ -23,6 +23,7 @@ import { MarkedOptions, MarkedRenderer } from 'ngx-markdown';
 
 // Import icons you need. ✔️
 import { EditTwoTone } from '@ant-design/icons-angular/icons';
+import { HttpInterceptorService } from './interceptors/http.interceptor';
 
 const icons: IconDefinition[] = [ EditTwoTone ];
 
@@ -48,6 +49,7 @@ export function markedOptionsFactory(): MarkedOptions {
 
 
 registerLocaleData(en);
+
 
 
 @NgModule({
@@ -76,7 +78,10 @@ registerLocaleData(en);
     NzSpaceModule,
     NzTagModule
   ],
-  providers: [{ provide: NZ_I18N, useValue: en_US }],
+  providers: [
+    { provide: NZ_I18N, useValue: en_US },
+    { provide: HTTP_INTERCEPTORS, useClass: HttpInterceptorService, multi: true }
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

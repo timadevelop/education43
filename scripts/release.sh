@@ -40,10 +40,4 @@ release() {
   git push origin release-to-gh-pages:gh-pages --force
 }
 
-if [ -z "$(git status --porcelain)" ]
-then
-  (release && back_to_main) || cancel
-else
-  log "Clean working directory to release"
-fi
-
+(release && back_to_main) || cancel

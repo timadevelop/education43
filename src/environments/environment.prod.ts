@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  host: 'teemofeev.github.io'
+  host: 'education43.teemofeev.com'
 };

@@ -31,7 +31,12 @@
                 "input": "./node_modules/@ant-design/icons-angular/src/inline-svg/",
                 "output": "/assets/"
               },
-              "src/resources"
+              "src/resources",
+              {
+                "glob": "**/*",
+                "input": "src/extra/",
+                "output": "/"
+              }
             ],
             "styles": [
               "src/theme.less",

@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "dev:ssr": "ng run education:serve-ssr",
+    "dev:ssr": "ng run education:serve-ssr --port 4000",
     "serve:ssr": "node dist/education/server/main.js",
     "build:ssr": "ng build --prod && ng run education:server:production",
     "prerender": "ng run education:prerender"

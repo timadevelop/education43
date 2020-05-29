@@ -4,7 +4,7 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { FormsModule } from '@angular/forms';
-import { NgZorroAntdModule, NzTagModule, NzIconModule } from 'ng-zorro-antd';
+import { NzTagModule, NzIconModule, NzTypographyModule, NzDividerModule, NzBackTopModule, NzAlertModule } from 'ng-zorro-antd';
 import { HttpClientModule, HttpClient, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NZ_I18N } from 'ng-zorro-antd/i18n';
@@ -12,7 +12,6 @@ import { en_US } from 'ng-zorro-antd/i18n';
 import { registerLocaleData } from '@angular/common';
 import en from '@angular/common/locales/en';
 import { MarkdownModule } from 'ngx-markdown';
-import { NzSpaceModule } from 'ng-zorro-antd/space';
 import { IntroComponent } from './intro/intro.component';
 import { AboutComponent } from './about/about.component';
 import { ContributeComponent } from './contribute/contribute.component';
@@ -73,9 +72,11 @@ registerLocaleData(en);
         useFactory: markedOptionsFactory,
       },
     }),
-    NgZorroAntdModule,
+    NzTypographyModule,
+    NzDividerModule,
+    NzBackTopModule,
+    NzAlertModule,
     NzIconModule.forRoot(icons),
-    NzSpaceModule,
     NzTagModule
   ],
   providers: [

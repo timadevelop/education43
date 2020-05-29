@@ -1,6 +1,6 @@
 # 🎓 Education43 - a community-driven list of free educational resources.
 
-See [#TODO: link to gh-pages]()
+See [education43.teemofeev.com](https://education43.teemofeev.com/)
 
 I've got my degree in for free and I hate seeing people suffer due to their student loans. While people are yelling and protesting, I would like to provide another approach to the situation. This page contains thousands of links to books, courses, and other resources.
 

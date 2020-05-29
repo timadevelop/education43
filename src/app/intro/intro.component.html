@@ -25,6 +25,23 @@
   </p>
 </div>
 
+<noscript>
+<div class="noscript-error">
+  <nz-alert
+    nzType="warning"
+    nzMessage="This site requires JavaScript."
+    [nzDescription]="descriptionTemplate"
+    nzShowIcon
+  >
+  </nz-alert>
+  <ng-template #descriptionTemplate>
+    The resources will only be visible if your browser supports Javascript.
+    <br />
+    Please make sure you have the latest browser version, and that JavaScript is
+    enabled.
+  </ng-template>
+</div>
+</noscript>
 
 <nz-divider nzText="Academic Fields" nzOrientation="left"></nz-divider>
 <app-list></app-list>

@@ -5,16 +5,16 @@ log() {
   printf "\n$1\n"
 }
 
-back_to_main() {
-  log "Going back to main branch..." &&
-  git checkout main &&
+back_to_master() {
+  log "Going back to master branch..." &&
+  git checkout master &&
   log "Deleting tmp branch..." &&
   git branch -D tmp-release
 }
 
 cancel() {
   log "Some error occurred... cancelling the release process"
-  back_to_main
+  back_to_master
 }
 
 release() {
@@ -40,4 +40,4 @@ release() {
   git push origin release-to-gh-pages:gh-pages --force
 }
 
-(release && back_to_main) || cancel
+(release && back_to_master) || cancel

@@ -1,0 +1,4 @@
+- [Awesome Design by gztchan](https://github.com/gztchan/awesome-design)
+- [Design resources by bradtraversy](https://github.com/bradtraversy/design-resources-for-developers)
+- [Graphic Design Course by MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-831-user-interface-design-and-implementation-spring-2011/in-class-activities/graphic-design/)
+- [The Best Interface is No Interface](http://www.nointerface.com/book/)

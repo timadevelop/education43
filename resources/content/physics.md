@@ -1,0 +1,7 @@
+- [Resources by NSF](https://www.nsf.gov/news/classroom/physics.jsp)
+- [Physics Resources by MIT blossoms](https://blossoms.mit.edu/resources/physics_resources)
+- [Secondary Education Resources-Science-Physics](http://www.pitt.edu/~poole/physics.html)
+- [Physics Resources by CSUN](https://www.csun.edu/science/physics/index.html)
+- [Math & Physics PDF Books](https://github.com/carlosal1015/Books)
+- [Over 2,000 Physics Teaching Resources by IOP](https://spark.iop.org/)
+- [Physics Textbooks](https://open.umn.edu/opentextbooks/subjects/physics)

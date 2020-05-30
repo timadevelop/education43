@@ -1,0 +1,3 @@
+- [How to teach yourself linguistics online for free by Gretchen McCulloch](https://allthingslinguistic.com/post/164874346205/how-to-teach-yourself-linguistics-online-for-free)
+- [Linguistics and Philosophy MIT OCW](https://ocw.mit.edu/courses/linguistics-and-philosophy/)
+- [Linguistics Textbooks by OTL](https://open.umn.edu/opentextbooks/subjects/linguistics)

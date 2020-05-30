@@ -1,0 +1,4 @@
+- [Chemistry Videos by Tyler DeWITT](https://www.tdwscience.com/videos)
+- [MSJChem - Tutorial videos for IB Chemistry](https://www.msjchem.com/)
+- [Richard Thornley (yt)](https://www.youtube.com/user/richthornley/featured)
+- [Chemistry Textbooks](https://open.umn.edu/opentextbooks/subjects/chemistry)

@@ -1,0 +1,14 @@
+- [MIT OpenCourseWare web](https://ocw.mit.edu/)
+- [MIT OpenCourseWare yt](https://www.youtube.com/mitocw)
+- [jbstatistics](https://www.youtube.com/channel/UCiHi6xXLzi9FMr9B0zgoHqA) `personal gratitude`
+- [Awesome Math list](https://github.com/rossant/awesome-math)
+- [Stat Trek resources](https://stattrek.com/statistics/resources.aspx)
+- [Free Stanford Statistical Learning course](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning)
+- [Math for students](http://mathprofi.ru/) `ru`
+- [MIT BLOSSOMS](https://blossoms.mit.edu/)
+- [Math Resources by MIT Blossoms](https://blossoms.mit.edu/resources/math_resources)
+- [Advanced Mathematics for Engineers](https://github.com/nicoguaro/AdvancedMath)
+- [Foundations of Applied Mathematics](https://foundations-of-applied-mathematics.github.io/)
+- [Calculus resources](https://github.com/GloverDonovan/awesome-calculus)
+- [Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+- [Math & Physics PDF Books](https://github.com/carlosal1015/Books)

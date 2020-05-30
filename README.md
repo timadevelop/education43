@@ -4,7 +4,7 @@ See [education43.teemofeev.com](https://education43.teemofeev.com/)
 
 I've got my degree in for free and I hate seeing people suffer due to their student loans. While people are yelling and protesting, I would like to provide another approach to the situation. This page contains thousands of links to books, courses, and other resources.
 
-I believe these can help you not only to get your knowledge for free, but also do it more effectively by leaving old education methods aside. Using these resources any person can outperform any 'prestigious' university student.
+I believe these can help you not only to get your knowledge for free, but also do it more effectively by leaving old education methods aside. Using these resources any person can outperform any traditional student.
 
 ## ✍️ Contribute
 
